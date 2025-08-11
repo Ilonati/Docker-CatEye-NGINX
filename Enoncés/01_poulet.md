@@ -1,4 +1,4 @@
-# 🐳 Dockerfile : Exercice 1
+# 🐳 Dockerfile
 
 L'objectif de cet exercice est de créer un conteneur Docker capable de servir une application simple.
 L'application en question est une page web (html) qui affiche un chat donc le regard suit la souris.
